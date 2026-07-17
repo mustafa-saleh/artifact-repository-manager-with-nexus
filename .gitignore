@@ -1,0 +1,8 @@
+java-maven-app/.idea/*
+java-maven-app/target
+
+java-app/.DS_Store
+java-app/.idea/*
+java-app/.gradle
+java-app/build
+java-app/out
