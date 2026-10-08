@@ -1,8 +1,6 @@
 # Artifact Repository Manager with Nexus
 
-This project is for the DevOps Bootcamp demo for:
-
-Artifact Repository Manager with Nexus - [DevOps Bootcamp](https://techworld-with-nana.teachable.com/p/devops-bootcamp)
+Nexus is a repository manager that allows you to proxy, collect, and manage your dependencies, as well as distribute your software artifacts. It supports various formats such as Maven, npm, NuGet, RubyGems, Docker, and more.
 
 ## Demo Project
 
